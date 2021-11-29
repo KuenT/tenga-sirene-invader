@@ -1,0 +1,126 @@
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Inserting from ./data/generated/CSV-8.csv : 84341
+Inserting from ./data/generated/CSV-2.csv : 106892
+Inserting from ./data/generated/CSV-3.csv : 107643
+Inserting from ./data/generated/CSV-0.csv : 118014
+Inserting from ./data/generated/CSV-4.csv : 110637
+Inserting from ./data/generated/CSV-5.csv : 117058
+Inserting from ./data/generated/CSV-1.csv : 116704
+Inserting from ./data/generated/CSV-7.csv : 123116
+Inserting from ./data/generated/CSV-6.csv : 122652
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Inserting from ./data/generated/CSV-8.csv : 84341
+Inserting from ./data/generated/CSV-0.csv : 118014
+Inserting from ./data/generated/CSV-1.csv : 116704
+Inserting from ./data/generated/CSV-2.csv : 106892
+Inserting from ./data/generated/CSV-4.csv : 110637
+Inserting from ./data/generated/CSV-3.csv : 107643
+Inserting from ./data/generated/CSV-5.csv : 117058
+Inserting from ./data/generated/CSV-7.csv : 123116
+Inserting from ./data/generated/CSV-6.csv : 122652
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Inserting from ./data/generated/CSV-8.csv : 84341
+Inserting from ./data/generated/CSV-4.csv : 110637
+Inserting from ./data/generated/CSV-2.csv : 106892
+Inserting from ./data/generated/CSV-3.csv : 107643
+Inserting from ./data/generated/CSV-0.csv : 118014
+Inserting from ./data/generated/CSV-6.csv : 122652
+Inserting from ./data/generated/CSV-1.csv : 116704
+Inserting from ./data/generated/CSV-5.csv : 117058
+Inserting from ./data/generated/CSV-7.csv : 123116
+Inserted 84341 documents in MongoDB
+Close Db Connection
+Connection closed
+Inserted 110637 documents in MongoDB
+Close Db Connection
+Connection closed
+Inserted 106892 documents in MongoDB
+Close Db Connection
+Connection closed
+Inserted 107643 documents in MongoDB
+Close Db Connection
+Connection closed
+Inserted 118014 documents in MongoDB
+Close Db Connection
+Connection closed
+Inserted 116704 documents in MongoDB
+Close Db Connection
+Connection closed
+Inserted 123116 documents in MongoDB
+Close Db Connection
+Connection closed
+Inserted 117058 documents in MongoDB
+Close Db Connection
+Connection closed
+Inserted 122652 documents in MongoDB
+Close Db Connection
+Connection closed
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Connected successfully
+Inserting from ./data/generated/CSV-8.csv : 84341
+Inserting from ./data/generated/CSV-2.csv : 106892
+Inserting from ./data/generated/CSV-3.csv : 107643
+Inserting from ./data/generated/CSV-4.csv : 110637
+Inserting from ./data/generated/CSV-0.csv : 118014
+Inserting from ./data/generated/CSV-5.csv : 117058
+Inserting from ./data/generated/CSV-1.csv : 116704
+Inserting from ./data/generated/CSV-6.csv : 122652
+Inserting from ./data/generated/CSV-7.csv : 123116
+Inserted 84341 documents in MongoDB
+Close Db Connection
+Connection closed
+Inserted 106892 documents in MongoDB
+Close Db Connection
+Connection closed
+Inserted 110637 documents in MongoDB
+Close Db Connection
+Connection closed
+Inserted 107643 documents in MongoDB
+Close Db Connection
+Connection closed
+Inserted 117058 documents in MongoDB
+Close Db Connection
+Connection closed
+Inserted 118014 documents in MongoDB
+Close Db Connection
+Connection closed
+Inserted 116704 documents in MongoDB
+Close Db Connection
+Connection closed
+Inserted 123116 documents in MongoDB
+Close Db Connection
+Connection closed
+Inserted 122652 documents in MongoDB
+Close Db Connection
+Connection closed
