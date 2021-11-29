@@ -11,7 +11,7 @@ Install MongoDB on your system
 
 ## Getting started
 
-Download the file "StockEtablissement_utf8.csv" from https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leursetablissements-siren-siret/
+Download the file "StockEtablissement_utf8.csv"
 
 Run the code
 
