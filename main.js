@@ -12,7 +12,8 @@ const QUEUED_WORK = [];
 const FREE_INSTANCES = [];
 var FILTER = [];
 const CPUS = os.cpus().length;
-const NUM_OF_NODES = 2;
+const NUM_OF_NODES = 1;
+const startTime = performance.performance.now();
 
 function UpdateWorkers(packet = null) {
     if (packet !== null) {
@@ -25,6 +26,8 @@ function UpdateWorkers(packet = null) {
             const delay = performance.performance.now() - WORK_IN_PROGRESS[packet.data.FILE];
             console.log("Took " + delay + " ms for " + packet.data.FILE);
             console.log(FREE_INSTANCES.length + " free instances.");
+            const totalTimeTaken = performance.performance.now() - startTime;
+            console.log("Total time taken: " + totalTimeTaken/60000 + " mins");
             if(FREE_INSTANCES.length === CPUS * NUM_OF_NODES){
                 console.log("Data loaded successfully to the db. Press Crtl+C to exit and 'pm2 delete all' to kill all processes");
             }
@@ -165,7 +168,7 @@ async function SplitCSV() {
 
         await SaveCSV(chunkBuffer, streamStart, streamEnd, `./data/generated/CSV-${csvId++}.csv`);
 
-        if (csvId > 50) break; // FOR DEBUGGING
+        //if (csvId > 50) break; // FOR DEBUGGING
     }
 
     console.log("Finished splitting CSV into " + csvId + " files.");
