@@ -11,9 +11,7 @@ Install MongoDB on your system
 
 ## Getting started
 
-Download the file "StockEtablissement_utf8.csv"
-
-Run the code
+Download the code
 
 ```shell
 npm install
@@ -32,3 +30,5 @@ Other handy pm2 commands for monitoring or viewing logs of the running processes
 pm2 monit
 pm2 logs  
 ```
+
+![](https://photos.google.com/photo/AF1QipO5Fk9t9ycXCWooul57fQBVYE9aBgXLnfjF3wXC)
