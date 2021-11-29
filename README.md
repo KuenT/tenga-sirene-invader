@@ -13,7 +13,7 @@ Install MongoDB on your system
 
 Download the file "StockEtablissement_utf8.csv" from https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leursetablissements-siren-siret/
 
-Download the code
+Run the code
 
 ```shell
 npm install
