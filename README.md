@@ -11,7 +11,7 @@ Install MongoDB on your system
 
 ## Getting started
 
-Download the code
+Run the code
 
 ```shell
 npm install
